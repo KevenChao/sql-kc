@@ -1,0 +1,14 @@
+{
+  "name": "sql-kc",
+  "version": "0.0.1",
+  "description": "A SQL string generate tool in JS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "sql"
+  ],
+  "author": "KevenChao",
+  "license": "MIT"
+}
